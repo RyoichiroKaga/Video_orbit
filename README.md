@@ -4,9 +4,9 @@
 
 ## デモ動画
 
-<video src="https://github.com/RyoichiroKaga/Video_orbit/raw/main/output/GEO_relative_motion.mp4" controls muted loop playsinline width="100%"></video>
+https://github.com/user-attachments/assets/ded22333-e72b-40ae-b97c-4cc33e1da880
 
-> 上のプレイヤーが表示されない場合は [`output/GEO_relative_motion.mp4`](output/GEO_relative_motion.mp4) を開いてください。
+> 上のプレイヤーが表示されない場合は、軽量版 [`output/GEO_relative_motion_web.mp4`](output/GEO_relative_motion_web.mp4)(約1MB) または高画質版 [`output/GEO_relative_motion.mp4`](output/GEO_relative_motion.mp4) を開いてください。
 
 ## 画面構成
 
