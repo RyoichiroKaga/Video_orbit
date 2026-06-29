@@ -4,8 +4,9 @@
 
 ## デモ動画
 
-<!-- VIDEO_PLACEHOLDER -->
-動画: [`output/GEO_relative_motion.mp4`](output/GEO_relative_motion.mp4)
+https://github.com/RyoichiroKaga/Video_orbit/raw/main/output/GEO_relative_motion.mp4
+
+> 上のプレイヤーが表示されない場合は [`output/GEO_relative_motion.mp4`](output/GEO_relative_motion.mp4) を開いてください。
 
 ## 画面構成
 
