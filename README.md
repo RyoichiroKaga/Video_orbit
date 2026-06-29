@@ -4,7 +4,7 @@
 
 ## デモ動画
 
-https://github.com/RyoichiroKaga/Video_orbit/raw/main/output/GEO_relative_motion.mp4
+<video src="https://github.com/RyoichiroKaga/Video_orbit/raw/main/output/GEO_relative_motion.mp4" controls muted loop playsinline width="100%"></video>
 
 > 上のプレイヤーが表示されない場合は [`output/GEO_relative_motion.mp4`](output/GEO_relative_motion.mp4) を開いてください。
 
